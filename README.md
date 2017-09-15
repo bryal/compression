@@ -1,3 +1,3 @@
-# audiocompr
+# Compression in python
 
-A toy audio-compression application in python
+Repo for playing with compression in python
